@@ -16,9 +16,9 @@ Then see the `_config.yml`
 
     # Site settings
     encoding: utf-8
-    title: Cody
-    description: Cody1991的个人博客
-    baseurl: "http://cody1991.github.io" 
+    title: ycbx
+    description: ycbx的个人博客
+    baseurl: "http://ycbxklk.github.io/home" 
     # baseurl: ''
     github_username:  cody1991
     paginate: 5
