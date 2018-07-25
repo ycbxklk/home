@@ -2,13 +2,11 @@
 encoding: utf-8
 title: ycbx
 description: ycbx的个人博客
-baseurl: "https://ycbxklk.github.io" 
+baseurl: "https://ycbxklk.github.io/home" 
 # baseurl: ''
 github_username:  ycbxklk
 paginate: 8
 paginate_path: "/page:num"
 footer_github: "GitHub"
-footer_resume: "简历"
-footer_resume_site: "https://cody1991.github.io/aboutme/index.html"
 port: 8070
 gems: [jekyll-paginate]
